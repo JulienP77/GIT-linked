@@ -1,3 +1,3 @@
-print("this was created within RStudio")
+print("This was created within RStudio")
 
-print("now it lives in GitHub")
+print("and now it lives in GitHub")
